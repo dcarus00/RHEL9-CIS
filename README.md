@@ -1,4 +1,4 @@
-# RHEL 9 CIS
+# RHEL 9 CIS con script para preparar el SO y ejecutarlo automatico. compatible con rocky Linux 9 
 
 ## Configure a RHEL 9 machine to be [CIS](https://www.cisecurity.org/cis-benchmarks/) compliant
 
